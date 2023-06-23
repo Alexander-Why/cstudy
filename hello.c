@@ -2,7 +2,7 @@
 
 int main(int argc,char* argv[])
 {
-    printf("new branch hello file\n");
+    printf("after merge \n");
     return 0;
 }
 
