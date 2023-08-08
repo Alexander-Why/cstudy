@@ -3,7 +3,7 @@
 int main(int argc,char* argv[])
 {
 
-    printf("after merge \n");
+    printf("hello world\n");
     return 0;
 }
 
